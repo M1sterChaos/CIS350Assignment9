@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/FinishedScenes/Finished01.unity
+- path: Assets/FinishedScenes/Finished03.unity
   isLoaded: 1
   isActive: 1

@@ -1,0 +1,2 @@
+C:\Users\austi\Documents\GitHub\CIS350Assignment9\Prototype9\Assignment 9 NavMesh\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\austi\Documents\GitHub\CIS350Assignment9\Prototype9\Assignment 9 NavMesh\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
