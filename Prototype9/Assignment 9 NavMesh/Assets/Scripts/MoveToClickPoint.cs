@@ -1,4 +1,9 @@
-﻿// MoveToClickPoint.cs 
+﻿/*
+ * (Austin Buck)
+ * (Assignment 9)
+ * (Player moves to point from mouse click)
+ */
+// MoveToClickPoint.cs 
 using UnityEngine;
 using UnityEngine.AI;
 public class MoveToClickPoint : MonoBehaviour

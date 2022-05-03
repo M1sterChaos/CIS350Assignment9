@@ -1,4 +1,9 @@
-﻿// MoveTo.cs
+﻿/*
+ * (Austin Buck)
+ * (Assignment 9)
+ * (Player moves to position)
+ */
+// MoveTo.cs
 using UnityEngine;
 using UnityEngine.AI;
 public class MoveTo : MonoBehaviour

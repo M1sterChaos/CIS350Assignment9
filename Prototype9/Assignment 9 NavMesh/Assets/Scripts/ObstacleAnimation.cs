@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Austin Buck)
+ * (Assignment 9)
+ * ("Animates" the obstacles)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

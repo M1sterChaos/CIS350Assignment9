@@ -1,3 +1,8 @@
+/*
+ * (Austin Buck)
+ * (Assignment 9)
+ * (Generates the level)
+ */
 using UnityEngine;
 using UnityEngine.UI;
 
