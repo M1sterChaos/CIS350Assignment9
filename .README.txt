@@ -1,0 +1,1 @@
+Unity stopped supporting visual studio 2019 and refused to work with the newest 2022. Could not complete assignment by any means.
